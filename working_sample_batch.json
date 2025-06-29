@@ -1,0 +1,50 @@
+[
+  {
+    "speed_limit": 30,
+    "road_type": "Single carriageway",
+    "light_conditions": "Daylight",
+    "weather_conditions": "Fine no high winds",
+    "road_surface_conditions": "Dry",
+    "junction_detail": "Not at junction or within 20 metres",
+    "junction_control": "Give way or uncontrolled",
+    "pedestrian_crossing_human_control": "None within 50 metres",
+    "pedestrian_crossing_physical_facilities": "No physical crossing facilities within 50 metres",
+    "carriageway_hazards": "None",
+    "urban_or_rural_area": "Urban",
+    "did_police_officer_attend_scene_of_accident": "No",
+    "trunk_road_flag": "Non-trunk",
+    "lsoa_of_accident_location": "E01000001"
+  },
+  {
+    "speed_limit": 40,
+    "road_type": "Dual carriageway",
+    "light_conditions": "Darkness - lights lit",
+    "weather_conditions": "Raining without high winds",
+    "road_surface_conditions": "Wet or damp",
+    "junction_detail": "Not at junction or within 20 metres",
+    "junction_control": "Give way or uncontrolled",
+    "pedestrian_crossing_human_control": "None within 50 metres",
+    "pedestrian_crossing_physical_facilities": "No physical crossing facilities within 50 metres",
+    "carriageway_hazards": "None",
+    "urban_or_rural_area": "Urban",
+    "did_police_officer_attend_scene_of_accident": "No",
+    "trunk_road_flag": "Non-trunk",
+    "lsoa_of_accident_location": "E01000002"
+  },
+  {
+    "speed_limit": 70,
+    "road_type": "Motorway",
+    "light_conditions": "Daylight",
+    "weather_conditions": "Fine no high winds",
+    "road_surface_conditions": "Dry",
+    "junction_detail": "Not at junction or within 20 metres",
+    "junction_control": "Give way or uncontrolled",
+    "pedestrian_crossing_human_control": "None within 50 metres",
+    "pedestrian_crossing_physical_facilities": "No physical crossing facilities within 50 metres",
+    "carriageway_hazards": "None",
+    "urban_or_rural_area": "Rural",
+    "did_police_officer_attend_scene_of_accident": "No",
+    "trunk_road_flag": "Trunk",
+    "lsoa_of_accident_location": "E01000003"
+  }
+] 
