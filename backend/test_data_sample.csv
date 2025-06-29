@@ -1,0 +1,6 @@
+road_type,road_class,speed_limit,area_type,junction_location,junction_control,junction_detail,hazards,road_surface_conditions,vehicle_type,light_conditions,weather_conditions
+Single carriageway,Class A,30,Urban,Not at junction,Give way or uncontrolled,Not at junction,None,Dry,Car,Daylight,Fine no high winds
+Dual carriageway,Class A,70,Rural,Not at junction,Give way or uncontrolled,Not at junction,None,Wet or damp,Car,Daylight,Raining no high winds
+Single carriageway,Class B,40,Urban,Not at junction,Give way or uncontrolled,Not at junction,None,Dry,Motorcycle,Daylight,Fine no high winds
+Motorway,Class A,70,Rural,Not at junction,Give way or uncontrolled,Not at junction,None,Dry,Car,Darkness - lights lit,Fine no high winds
+Single carriageway,Class C,30,Urban,Not at junction,Give way or uncontrolled,Not at junction,None,Wet or damp,Car,Daylight,Raining no high winds 
